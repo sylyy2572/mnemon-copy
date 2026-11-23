@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "documents": [
+    {
+      "id": "cb6bd015-c45f-4de5-9dc2-7aba240248a2",
+      "title": "Mnemon 记忆空间配置：存储范围 vs 记忆空间范围 与三空间方案",
+      "description": "源码核对的 storageScope 与 memorySpacesScope 区别、长度限制、面向通信工程研究生的三个记忆空间命名/描述方案与数据落点；供后续记忆空间配置与路由类问题复用。",
+      "status": "active",
+      "filename": "mnemon-vs-cb6bd015.md",
+      "relativePath": "documents/active/mnemon-vs-cb6bd015.md",
+      "sourcePaths": [
+        "lib/client.js",
+        "lib/index.js",
+        "lib/types/contracts.d.ts",
+        "lib/contracts.d.ts"
+      ],
+      "sessionIds": [
+        "mnemon-review-v1-547892a9-931d-4b15-bb6a-80a1a0036e35"
+      ],
+      "createdAt": "2026-11-23T14:52:30.576Z",
+      "updatedAt": "2026-11-23T14:52:30.576Z",
+      "lastAccessedAt": "2026-11-23T14:52:30.576Z",
+      "revision": 1,
+      "contentHash": "ce3deb1c38278342f65b0b9721b3e204c6597446ddf6f53c09a5ce1e6850e170",
+      "sizeBytes": 6031,
+      "memoryBodyIds": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "content": "用户是通信工程专业研究生，参与课题组项目，并修读学校相关课程。",
+      "target": "user",
+      "importance": "normal",
+      "created_at": "2026-11-23T14:34:38.087Z",
+      "updated_at": "2026-11-23T14:34:38.087Z",
+      "origin": {
+        "machine": "3091c5ba-c9c6-4969-8dab-118e1d45f754",
+        "label": "jiekelidabaodeMacBook-Pro.local",
+        "at": "2026-11-23T14:34:38.087Z"
+      }
+    },
+    {
+      "content": "用户是通信工程专业研究生，涉及课题组项目和学校课程学习。",
+      "target": "user",
+      "importance": "normal",
+      "created_at": "2026-11-23T14:52:30.589Z",
+      "updated_at": "2026-11-23T14:52:30.589Z",
+      "origin": {
+        "machine": "3091c5ba-c9c6-4969-8dab-118e1d45f754",
+        "label": "jiekelidabaodeMacBook-Pro.local",
+        "at": "2026-11-23T14:52:30.589Z"
+      }
+    }
+  ]
+}
