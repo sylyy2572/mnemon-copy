@@ -2,7 +2,7 @@
   "format": "mnemonpack",
   "version": 1,
   "scope": "full",
-  "exportedAt": "2026-11-23T15:15:03.029Z",
+  "exportedAt": "2026-11-23T15:48:48.918Z",
   "source": {
     "plugin": "dsh-mnemon",
     "pluginVersion": "0.5.53"
@@ -21,9 +21,9 @@
     },
     {
       "component": "documents",
-      "files": 2,
-      "bytes": 7156,
-      "items": 1
+      "files": 4,
+      "bytes": 20428,
+      "items": 3
     },
     {
       "component": "memory-spaces",
@@ -36,7 +36,7 @@
     "channel": "git",
     "branch": "mnemon-sync",
     "subdir": "mnemon/",
-    "pushedAt": "2026-11-23T15:15:03.029Z",
+    "pushedAt": "2026-11-23T15:48:48.918Z",
     "machine": {
       "id": "3091c5ba-c9c6-4969-8dab-118e1d45f754",
       "label": "jiekelidabaodeMacBook-Pro.local",

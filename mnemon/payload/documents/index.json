@@ -19,10 +19,54 @@
       ],
       "createdAt": "2026-11-23T14:52:30.576Z",
       "updatedAt": "2026-11-23T14:52:30.576Z",
-      "lastAccessedAt": "2026-11-23T14:52:30.576Z",
+      "lastAccessedAt": "2026-11-23T15:46:56.999Z",
       "revision": 1,
       "contentHash": "ce3deb1c38278342f65b0b9721b3e204c6597446ddf6f53c09a5ce1e6850e170",
       "sizeBytes": 6031,
+      "memoryBodyIds": []
+    },
+    {
+      "id": "6ace19f3-6258-4eda-b7ec-4060e9c0c156",
+      "title": "Mnemon 其余配置项核对：项目档案范围 / 用户画像范围 / 主动记录 / 技能管理",
+      "description": "源码与 locale 文案核对的 documentsScope、runtimeUserScope、auto-capture sourceKeys、项目档案创建方式及技能开关语义，附面向通信工程研究生的最终配置汇总；承接文档 cb6bd015。",
+      "status": "active",
+      "filename": "mnemon-6ace19f3.md",
+      "relativePath": "documents/active/mnemon-6ace19f3.md",
+      "sourcePaths": [
+        "dsh-mnemon/lib/client.js",
+        "dsh-mnemon-strategy-auto-capture/lib/index.js"
+      ],
+      "sessionIds": [
+        "mnemon-review-v1-2cb46507-363d-4953-98e7-1c14cafc2b6c"
+      ],
+      "createdAt": "2026-11-23T15:33:36.717Z",
+      "updatedAt": "2026-11-23T15:33:36.717Z",
+      "lastAccessedAt": "2026-11-23T15:46:56.999Z",
+      "revision": 1,
+      "contentHash": "021fbccbaed09622be86fc17b2931b38e63ee27b4a5f4a187dfaad8a98ddf318",
+      "sizeBytes": 6221,
+      "memoryBodyIds": []
+    },
+    {
+      "id": "466ab95d-354c-4054-94b6-7f08fd70ed96",
+      "title": "Mnemon 技能市场/更新与自进化辨析及最终确认清单",
+      "description": "核对自进化(evolution)≠下载/更新技能文件；市场来源/marketRefresh/允许更新链接技能的真实作用；并汇总四个范围下拉的最终改/留默认清单。承接 cb6bd015 与 6ace19f3。",
+      "status": "active",
+      "filename": "mnemon-466ab95d.md",
+      "relativePath": "documents/active/mnemon-466ab95d.md",
+      "sourcePaths": [
+        "dsh-mnemon/lib/client.js",
+        "dsh-mnemon-strategy-auto-capture/lib/index.js"
+      ],
+      "sessionIds": [
+        "mnemon-review-v1-94601577-bb10-4abf-885d-73c7e3baa6d3"
+      ],
+      "createdAt": "2026-11-23T15:47:03.072Z",
+      "updatedAt": "2026-11-23T15:47:03.072Z",
+      "lastAccessedAt": "2026-11-23T15:47:03.072Z",
+      "revision": 1,
+      "contentHash": "786cb887421ebca301e340f62e6bf1b7eb6d5b19663f57d9084a1550f0f9f7e8",
+      "sizeBytes": 4926,
       "memoryBodyIds": []
     }
   ]
